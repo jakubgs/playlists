@@ -1,30 +1,15 @@
-#EXTM3U
-#EXTINF:337,Carpenter Brut - Hang'em All
-../Cyberpunk/Carpenter Brut/Trilogy/12 Hang'em All.mp3
-#EXTINF:226,Lazerhawk - Activation
-../Cyberpunk/Lazerhawk/2010 - Redline/11. Activation.mp3
-#EXTINF:263,Lazerhawk - Overdrive
-../Cyberpunk/Lazerhawk/2010 - Redline/02. Overdrive.mp3
-#EXTINF:254,Carpenter Brut - 347 Midnight Demons
-../Cyberpunk/Carpenter Brut/Trilogy/05 347 Midnight Demons.mp3
-#EXTINF:206,Kavinsky - Protovision
-../Cyberpunk/Kavinsky/2013 - Outrun/03. Kavinsky - Protovision.mp3
-#EXTINF:176,Kavinsky - Rampage
-../Cyberpunk/Kavinsky/2013 - Outrun/05. Kavinsky - Rampage.mp3
-#EXTINF:218,Kavinsky - Testarossa Autodrive
-../Cyberpunk/Kavinsky/2013 - Outrun/07. Kavinsky - Testarossa Autodrive.mp3
-../Random/Panda Eyes & Teminite - High Score.mp3 does not have an ID3 1.x tag.
-#EXTINF:259,Panda Eyes & Teminite - High Score
-../Random/Panda Eyes & Teminite - High Score.mp3
-#EXTINF:277,Rob Gasser - Wildfire
-../Random/Rob Gasser - Wildfire.mp3
-#EXTINF:170,Youtube - Lone Digger
-../Party/Random/09 - Lone Digger.mp3
-#EXTINF:195,Frenssu - Gladiators
-../Random/Frenssu - Gladiators.mp3
-#EXTINF:145,Umineko - Aci-L
-../OST/Games/Umineko no Naku Koro ni/Game/BGM0/Aci-L.ogg
-#EXTINF:568,Umineko - dreamenddischarger
-../OST/Games/Umineko no Naku Koro ni/Game/BGM0/dreamenddischarger.ogg
-#EXTINF:264,Youtube - Bojack's Theme
-../Party/Random/13 - Bojack's Theme.mp3
+Cyberpunk/Carpenter Brut/Trilogy/12 Hang'em All.mp3
+Cyberpunk/Lazerhawk/2010 - Redline/11. Activation.mp3
+Cyberpunk/Lazerhawk/2010 - Redline/02. Overdrive.mp3
+Cyberpunk/Carpenter Brut/Trilogy/05 347 Midnight Demons.mp3
+Cyberpunk/Kavinsky/2013 - Outrun/03. Kavinsky - Protovision.mp3
+Cyberpunk/Kavinsky/2013 - Outrun/05. Kavinsky - Rampage.mp3
+Cyberpunk/Kavinsky/2013 - Outrun/07. Kavinsky - Testarossa Autodrive.mp3
+Random/Panda Eyes & Teminite - High Score.mp3 does not have an ID3 1.x tag.
+Random/Panda Eyes & Teminite - High Score.mp3
+Random/Rob Gasser - Wildfire.mp3
+Party/Random/09 - Lone Digger.mp3
+Random/Frenssu - Gladiators.mp3
+OST/Games/Umineko no Naku Koro ni/Game/BGM0/Aci-L.ogg
+OST/Games/Umineko no Naku Koro ni/Game/BGM0/dreamenddischarger.ogg
+Party/Random/13 - Bojack's Theme.mp3
